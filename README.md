@@ -9,6 +9,9 @@
  ```
  
  ```
- git clone https://github.com/AC-Lover/AC-AddSubDomain.git && clear && bash AC-AddSubDomain/addsubdomain.sh
+ git clone https://github.com/AC-Lover/AC-AddSubDomain.git
  ```
  
+Eidt `cofing.json`
+
+run addsubdomain.sh
