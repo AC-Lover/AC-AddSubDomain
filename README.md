@@ -4,5 +4,5 @@
  
  `sudo apt install curl`
  
- `git clone https://github.com/MortezaBashsiz/CFScanner.git`
+ `git clone https://github.com/MortezaBashsiz/CFScanner.git && bash addsubdomain.sh`
  
