@@ -1,0 +1,8 @@
+{
+  "API_TOKEN": "<CloudFlare TOKEN>",
+  "domain": ".<Your domain>",
+  "certs_path": "/var/lib/marzban/certs/",
+  "marzban_path": "/root/marzban/",
+  "Zone_ID": "<Your zone id>",
+  "IP":"<Server IP>"
+}
