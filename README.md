@@ -12,6 +12,6 @@
  git clone https://github.com/AC-Lover/AC-AddSubDomain.git
  ```
  
-Eidt `cofing.json`
+Edit `cofing.json`
 
-run addsubdomain.sh
+run `addsubdomain.sh`
