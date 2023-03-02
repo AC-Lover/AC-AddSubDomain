@@ -9,6 +9,6 @@
  ```
  
  ```
- git clone https://github.com/AC-Lover/AC-AddSubDomain.git && bash addsubdomain.sh
+ git clone https://github.com/AC-Lover/AC-AddSubDomain.git && bash AC-AddSubDomain/addsubdomain.sh
  ```
  
