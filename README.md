@@ -45,4 +45,4 @@ run `addsubdomain.sh`
 
 ![cloudflare add site](https://github.com/rahgozar94725/freedom/blob/main/src/cf021.png)
 
-کارمان با سایت کلاودفلر تمام شد. موفق باشید
+این توکن را کپی کرده و در فایل `config.json` بجای `<CloudFlare TOKEN>` قرار می دهید
